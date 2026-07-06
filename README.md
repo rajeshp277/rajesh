@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I recently graduated with an M.Sc. in Geodesy & Geoinformatics from Leibniz University Hannover, specializing in Geospatial Machine Learning and Computer Vision.
+🔭 I graduated with an M.Sc. in Geodesy & Geoinformatics from Leibniz University Hannover, specializing in Geospatial Machine Learning and Computer Vision.
 🌱 I'm currently expanding my skills in MLOps and cloud deployments to scale Deep Learning workflows for Earth Observation.
 👯 I'm looking to collaborate on semantic/instance segmentation, single-object tracking (Siamese Networks), and spatial uncertainty analysis.
 💬 Ask me about: PyTorch (DINOv2, CNNs), Spatial Regression Modeling, InSAR interferometry, QGIS, and Python automation.
 📫 How to reach me: palaboinaraju@gmail.com
-⚡ Fun fact: When I'm not training vision models, you can find me captaining my local cricket club and organizing 10-team tournaments! 🏏
+⚡ Fun fact: When I'm not training vision models, you can find me captaining my local cricket club! 🏏
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-yadavp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palaboinaraju@gmail.com) 
